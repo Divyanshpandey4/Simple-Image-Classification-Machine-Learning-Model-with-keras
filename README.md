@@ -2,7 +2,7 @@
 
 This project demonstrates a simple yet effective Convolutional Neural Network (CNN) model built using TensorFlow/Keras to recognize handwritten digits from the MNIST dataset. The model is trained to classify grayscale images (28x28 pixels) of digits (0 through 9) with high accuracy.
 
-![Prediction Result](./assets/sample_prediction_7.png)
+
 
 ## 📁 Project Structure
 
